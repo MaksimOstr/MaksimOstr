@@ -19,7 +19,7 @@
 
 ### 📊 GitHub Stats
 
-<div styles="align=center;">
+<div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaksimOstr&layout=compact&theme=dark"/>
 </div>
 
