@@ -20,6 +20,6 @@
 ### 📊 GitHub Stats
 
 <div>
-    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaksimOstr&layout=compact&theme=dar)
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaksimOstr&layout=compact&theme=dar"/>
 </div>
 
