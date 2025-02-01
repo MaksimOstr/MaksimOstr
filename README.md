@@ -21,6 +21,5 @@
 
 <div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaksimOstr&layout=compact&theme=dark"/>
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats&theme=dark"/>
 </div>
 
