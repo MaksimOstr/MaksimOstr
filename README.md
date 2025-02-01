@@ -9,7 +9,7 @@
 - **Cloud**: AWS (S3)
 - **Frontend**: React, Next.js
 - **Testing**: Jest
-- **CI/CD**: Docker
+- **Other**: Docker
 
 ### 🔍 Contact
 
