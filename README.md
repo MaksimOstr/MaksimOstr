@@ -20,7 +20,6 @@
 ### 📊 GitHub Stats
 
 <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaksimOstr&layout=compact&theme=dark" height="180">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MaksimOstr&theme=dark" height="180">
+    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaksimOstr&layout=compact&theme=dar)
 </div>
 
