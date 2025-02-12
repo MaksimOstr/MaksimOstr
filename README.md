@@ -1,5 +1,7 @@
 # Hello there! I'm Maksim Ostroginskiy
 
+# Goodbye JavaScript... Hello Java!
+
 ### 🛠️ Tech stack
 
 - **General**: JavaScript, TypeScript
