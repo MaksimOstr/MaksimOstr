@@ -2,14 +2,14 @@
 
 ### 🛠️ Tech stack
 
-- **General**: JavaScript, TypeScript
-- **Backend**: Node.js, Express, NestJs
+- **Backend**: Java, Spring Framework
+- **Frontend**: JavaScript, TypeScript, React, Next.js
 - **Database**: PostgreSQL, MongoDB
-- **ORM**: Prisma, TypeORM
+-  **DB versioning**: Flyway, Liquid base
+- **ORM**: Hybernate
 - **Cloud**: AWS (S3)
-- **Frontend**: React, Next.js
-- **Testing**: Jest
-- **Other**: Docker
+- **Testing**: JUnit 5, Mockito, Spring Test
+- **Other**: Docker, Maven, Gradle
 
 ### 🔍 Contact
 
