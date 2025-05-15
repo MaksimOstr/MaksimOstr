@@ -15,7 +15,7 @@
 
 - **Telegram**: [@MaksimOstroginskiy](https://t.me/MaksimOstroginskiy)
 - **Email**: [ostroginskiymaksim@gmail.com](mailto:ostroginskiymaksim@gmail.com)
-- **LinkedIn**: [[in/maksim-ostroginskiy](https://www.linkedin.com/in/maksym-ostrozhynskyi-88964a34a/)
+- **LinkedIn**: [in/maksim-ostroginskiy](https://www.linkedin.com/in/maksym-ostrozhynskyi-88964a34a/)
 
 ### 📊 GitHub Stats
 
