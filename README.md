@@ -2,7 +2,7 @@
 
 ### 🛠️ Tech stack
 
-- **Backend**: Java, Spring Framework(Main), Nest.js
+- **Backend**: Java, Spring Framework(main), Nest.js
 - **Frontend**: JavaScript, TypeScript, React, Next.js
 - **Database**: PostgreSQL, MongoDB
 -  **DB versioning**: Flyway, Liquid base
