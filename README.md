@@ -4,7 +4,7 @@
 
 - **Backend**: Java, Spring Framework
 - **Frontend**: JavaScript, TypeScript, React, Next.js
-- **Database**: PostgreSQL, MongoDB, Redis
+- **Database**: PostgreSQL, Redis
 -  **DB versioning**: Liquid base
 - **ORM**: Hybernate
 - **Cloud**: AWS (S3)
