@@ -17,9 +17,4 @@
 - **Email**: [ostroginskiymaksim@gmail.com](mailto:ostroginskiymaksim@gmail.com)
 - **LinkedIn**: [in/maksym-ostrozhynskyi](https://www.linkedin.com/in/maksym-ostrozhynskyi-88964a34a/)
 
-### 📊 GitHub Stats
-
-<div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaksimOstr&layout=compact&theme=dark"/>
-</div>
 
