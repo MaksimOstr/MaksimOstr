@@ -1,4 +1,4 @@
-# Hello there! I'm Maksim Ostroginskiy
+# Hello there! I'm Maksym Ostrozhynskyi
 
 ### 🛠️ Tech stack
 
