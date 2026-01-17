@@ -5,7 +5,7 @@
 - **Backend**: Java, Spring Framework
 - **Frontend**: JavaScript, TypeScript, React, Next.js
 - **Database**: PostgreSQL, Redis
--  **DB versioning**: Liquid base
+-  **DB versioning**: LiquiBase
 - **ORM**: Hybernate
 - **Cloud**: AWS (S3)
 - **Testing**: JUnit 5, Mockito, Spring Test
